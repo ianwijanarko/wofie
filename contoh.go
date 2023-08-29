@@ -1,5 +1,5 @@
 package mod
 
-func test() string {
+func Test() string {
 
 }
